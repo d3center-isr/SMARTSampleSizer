@@ -5,7 +5,7 @@ account: d3center
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 18181821
-bundleId: 12785529
+bundleId: 12785582
 url: https://d3center.shinyapps.io/SMARTSampleSizer/
 version: 1
 asMultiple: FALSE
